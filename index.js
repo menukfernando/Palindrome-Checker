@@ -14,4 +14,6 @@ function getValue(){
     }else{
         alert("Try Next!!")
     }
+
+    input.value = ""
 }
